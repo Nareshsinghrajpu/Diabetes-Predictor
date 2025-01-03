@@ -653,5 +653,17 @@ server <- function(input, output, session) {
 }
 
 # Run the application
+
 shinyApp(ui = ui, server = server)
+
+![Screenshot 2025-01-03 112056](https://github.com/user-attachments/assets/407bf8a5-814c-4610-9032-1600da0b4c24)
+
+![Screenshot 2025-01-03 112108](https://github.com/user-attachments/assets/20a5d134-8186-465b-b3a0-184c1b42c496)
+
+![Screenshot 2025-01-03 112132](https://github.com/user-attachments/assets/ecf2a6bc-9cd3-4c4d-8ef2-04edac70374a)
+
+![![Screenshot 2025-01-03 112150](https://github.com/user-attachments/assets/3712cf7b-8f3d-49c7-99a1-36ac6d1bc55c)
+![Screenshot 2025-01-03 112207](https://github.com/user-attachments/assets/bc419005-5c10-4faf-822f-2b20e005a662)
+
+Screenshot 2024-11-18 185409](https://github.com/user-attachments/assets/994417a0-e69a-4b65-a7ba-b8416991c76e)
 
